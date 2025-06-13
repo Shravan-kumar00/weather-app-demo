@@ -1,0 +1,5 @@
+{
+  "severity": ["HIGH", "CRITICAL"],
+  "ignore-unfixed": true,
+  "no-progress": true
+}
